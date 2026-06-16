@@ -4,25 +4,46 @@
 
 | Item | Content |
 |--------|--------|
-| Code | |
+| Course Code |  |
 | Credits | |
-| Instructor | |
-| Semester | |
-| Format | |
-| Language | |
+| Instructor |  |
+| Semester |  |
+| Format |  |
+| Language |  |
 
 ## Assessment
+### year
 
-## Workload
+- Attendance: 
+- Homework: 
+- Midterm: 
+- Final: 
 
-## Difficulty
+## Course Content
 
-## Recommendation
+- 
+- 
 
-## Contributor Reviews
+## Reviews
 
-### Contributor (Year)
+### year
 
-Grade:
+| Item | Rating |
+|--------|--------|
+| Workload | ⭐⭐ |
+| Difficulty | ⭐⭐⭐⭐⭐ |
+| Recommendation | ⭐⭐⭐⭐ |
+
+**Final Grade (Optional):** A+
+
+**Comments**
+
+- 
+- 
+
+## Resources
+- 
+
+
 
 Review:
