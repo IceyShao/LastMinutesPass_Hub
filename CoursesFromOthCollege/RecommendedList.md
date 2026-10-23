@@ -17,3 +17,11 @@
 | 生態学概論 | EB11651 | 1.0 | 廣田 充 | In-person | EN | Assignment(2025) |
 | Current Topics in Disability Sciences | CA10161 | 1.0 | 野口 晃菜 | Online | EN | Assignment(2023) |
 | 地球環境学入門 | EG70021 | 1.0 | 杉田 倫明 | Online | EN | Assignemnt(2024) |
+| General Introduction to Global Issues | VB10001 | 3.0 | Takahiro
+Morio,Hajime
+Akiyama,Rajeev
+Kumar
+Singh,Pankaj
+Kumar,Yanbo Pang |In-person | EN | Assignment, Group Work and Individual Presentation(2025)| Easy class, A+ with 3 cr.|
+ 
+
