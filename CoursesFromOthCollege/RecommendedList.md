@@ -7,6 +7,7 @@
 | 動物生理学概論 | EB11751 | 1.0 | In-person | EN | Report(2024) |
 | 音声学概論 | AB90A31 | 1.0 | Online | EN | Manaba Test (2024) |
 | 実践的オンラインコンテンツ・ツール活用論 | HE36221 | 1.0 | 土屋 貴穂 | Online | JP | Assignment |
+| English Debate | GB13614 | 2.0 | Online | EN | Report(2024) |
 
 
 ## Fall Semester
