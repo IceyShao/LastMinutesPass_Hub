@@ -1,6 +1,8 @@
 Master's Program in Materials Innovation, Degree Programs in  Pure and Applied Sciences , University of Tsukuba
+
 Awarded: Master of Engineering
 https://t-imi.org/en/overview/
+
 [Educational Purpose & Human Resource Development]
 This program aims to cultivate individuals who will lead innovations in futuristic energy materials and the field of electronics, and who can thrive and contribute on a global stage.
 
