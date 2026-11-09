@@ -4,6 +4,7 @@ IDE senpais who passed University of Tsukuba Master's Program in Intelligent and
 
 Document Submission: Around May-
 Interview July in your graduation year: 10 min presentation regarding research and research plan+ 10 min questions+ 5 min math exam 
+
 Scope of math questions:
 https://www.imis.tsukuba.ac.jp/admission/admission-m/oral
 
