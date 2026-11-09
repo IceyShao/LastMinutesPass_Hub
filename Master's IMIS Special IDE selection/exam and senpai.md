@@ -13,6 +13,8 @@ Fundamental knowledge and high ethical standards in the field of engineering
 Specialized knowledge and skills relating to intelligent and mechanical interaction systems*
 Research skills
 
+https://www.imis.tsukuba.ac.jp/?lang=en
+
 Research at IMIS:
 1. Systems Design
 2. Humans, Mechanics and Robot System
