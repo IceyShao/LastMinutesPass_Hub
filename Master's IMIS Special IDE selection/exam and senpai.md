@@ -10,15 +10,20 @@ https://www.sie.tsukuba.ac.jp/eng/edu/course/imis/
 In the Master’s Program, we aim to foster highly skilled professionals who can identify and solve problems from broad perspectives, equipped with the following attributes:
 
 Fundamental knowledge and high ethical standards in the field of engineering
+
 Specialized knowledge and skills relating to intelligent and mechanical interaction systems*
+
 Research skills
 
 https://www.imis.tsukuba.ac.jp/?lang=en
 
 Research at IMIS:
 1. Systems Design
-2. Humans, Mechanics and Robot System
+   
+3. Humans, Mechanics and Robot System
+   
 3.Measurement and Control Engineering
+
 4.Communication System
 
 
